@@ -39,8 +39,6 @@ print("Hello, GitHub!")
 
 About Me
 
-![Profile](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQda95eb5HauBRDox9pl4rU44l_KgUth1sg&s)
-
 Hi 👋 I am **Maureen**, an *aspiring web developer* currently learning `HTML`, `CSS`, and `Git`. I am focused on building clean and user-friendly web experiences.
 Here are my current priorities:
 - Improve my coding skills
