@@ -4,6 +4,7 @@
 This semester I want to become **confident** in coding, stay *consistent* in my practice, and understand how to use `git commit` properly.
 
 (My Github Profile)[https://github.com/maureenmuchoki-hub/Maureenmuchoki]
+
 (w3schools)[https://pathfinder.w3schools.com/profile]
 
 Things I Want to Learn
@@ -44,6 +45,5 @@ Here are my current priorities:
 - Practice daily
 - Build real projects
 
-You can connect with me on [https://github.com/maureenmuchoki-hub/Maureenmuchoki]
-
+You can connect with me on [https://github.com/maureenmuchoki-hub/Maureenmuchoki]---
 My goal is to grow step by step and never stop learning.
