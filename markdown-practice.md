@@ -4,7 +4,7 @@
 This semester I want to become **confident** in coding, stay *consistent* in my practice, and understand how to use `git commit` properly.
 
 Links
-- https://github.com/maureenmuchoki-hub/Maureenmuchoki
+[https://github.com/maureenmuchoki-hub/Maureenmuchoki]
 
 Things I Want to Learn
 - HTML & CSS
@@ -32,14 +32,15 @@ Task List
 Code Block
 ```python
 print("Hello, GitHub!")
----
-Consistency beats talent when talent doesn’t stay consistent.
+```
+
+>Consistency beats talent when talent doesn’t stay consistent.
 
 About Me
 Hi 👋 I am **Maureen**, an *aspiring web developer* currently learning `HTML`, `CSS`, and `Git`.
 Here are my current priorities:
-Improve my coding skills
-Practice daily
-Build real projects
-You can connect with me on https://github.com/maureenmuchoki-hub/Maureenmuchoki
+- Improve my coding skills
+- Practice daily
+- Build real projects
+You can connect with me on [https://github.com/maureenmuchoki-hub/Maureenmuchoki]
 My goal is to grow step by step and never stop learning.
