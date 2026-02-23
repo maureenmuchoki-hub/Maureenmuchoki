@@ -1,8 +1,8 @@
 ## My Learning Goals
 ### This Semester
 
-This semester I want to become **confident** in coding, stay _consistent_ in my practice, and understand how to use `git commit` properly.
----
+This semester I want to become **confident** in coding, stay *consistent* in my practice, and understand how to use `git commit` properly.
+
 Links
 - https://github.com/maureenmuchoki-hub/Maureenmuchoki
 
@@ -32,9 +32,11 @@ Task List
 Code Block
 ```python
 print("Hello, GitHub!")
+
 Consistency beats talent when talent doesn’t stay consistent.
+
 About Me
-Hi 👋 I am Maureen, an aspiring web developer currently learning HTML, CSS, and Git.
+Hi 👋 I am **Maureen**, an *aspiring web developer* currently learning `HTML`, `CSS`, and `Git`.
 Here are my current priorities:
 Improve my coding skills
 Practice daily
