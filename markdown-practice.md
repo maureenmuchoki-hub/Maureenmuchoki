@@ -1,5 +1,6 @@
-##My Learning Goals
-###This Semester
+## My Learning Goals
+### This Semester
+
 This semester I want to become **confident** in coding, stay *consistent* in my practice, and understand how to use `git commit` properly.
 ---
 Links
