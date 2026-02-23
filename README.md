@@ -2,8 +2,11 @@
 
 ## About Me
 I am an aspiring web developer focused on building clean and user-friendly web experiences.
+
 -🌱I'm currently learning HTML, CSS, Git & GitHub
+
 -💡I'm interested in Web development, design, and creative tech projects
+
 -🤝I'm looking to collaborate on beginner-friendly projects
 
 ## Skills I'm Building
