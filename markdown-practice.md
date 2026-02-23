@@ -5,10 +5,12 @@
 This semester I want to become **confident** in coding, stay *consistent* in my practice, and understand how to use `git commit` properly.
 ---
 - https://github.com/maureenmuchoki-hub/Maureenmuchoki
+
 Things I Want to Learn
 - HTML & CSS
 - Git and GitHub
 - JavaScript
+
 Steps to Make a Commit in Git
 1. Add your changes using `git add .`
 2. Commit the changes using `git commit -m "your message"`
@@ -31,7 +33,6 @@ Code Block
 ```python
 print("Hello, GitHub!")
 Consistency beats talent when talent doesn’t stay consistent.
-
 About Me
 Hi 👋 I am Maureen, an aspiring web developer currently learning HTML, CSS, and Git.
 Here are my current priorities:
