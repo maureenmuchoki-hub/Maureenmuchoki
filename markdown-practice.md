@@ -3,9 +3,9 @@
 
 This semester I want to become **confident** in coding, stay *consistent* in my practice, and understand how to use `git commit` properly.
 
-(My Github Profile)[https://github.com/maureenmuchoki-hub/Maureenmuchoki]
+[My Github Profile](https://github.com/maureenmuchoki-hub/Maureenmuchoki)
 
-(w3schools)[https://pathfinder.w3schools.com/profile]
+[w3schools](https://pathfinder.w3schools.com/profile)
 
 Things I Want to Learn
 - HTML & CSS
@@ -39,11 +39,14 @@ print("Hello, GitHub!")
 
 About Me
 
+![Profile](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQda95eb5HauBRDox9pl4rU44l_KgUth1sg&s)
+
 Hi 👋 I am **Maureen**, an *aspiring web developer* currently learning `HTML`, `CSS`, and `Git`. I am focused on building clean and user-friendly web experiences.
 Here are my current priorities:
 - Improve my coding skills
 - Practice daily
 - Build real projects
 
-You can connect with me on [https://github.com/maureenmuchoki-hub/Maureenmuchoki]---
+You can connect with me on [My Github Profile](https://github.com/maureenmuchoki-hub/Maureenmuchoki)
+
 My goal is to grow step by step and never stop learning.
