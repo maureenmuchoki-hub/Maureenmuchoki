@@ -1,7 +1,7 @@
 ## My Learning Goals
 ### This Semester
 
-This semester I want to become **confident** in coding, stay *consistent* in my practice, and understand how to use `git commit` properly.
+This semester I want to become **confident** in coding, stay _consistent_ in my practice, and understand how to use `git commit` properly.
 ---
 Links
 - https://github.com/maureenmuchoki-hub/Maureenmuchoki
